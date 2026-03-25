@@ -69,9 +69,9 @@ I enjoy solving real-world business problems using data analysis tools and techn
 
 - 📧 Email: ganeshingle.ds@gmail.com
   
-- 🔗 LinkedIn:https://www.linkedin.com/in/ganesh-ingle1
+- 🔗 LinkedIn:linkedin.com/in/ganesh-ingle1
  
-- 💻 GitHub: https://github.com/ganeshingle-ds  
+- 💻 GitHub:github.com/ganeshingle-ds  
 
 
 
