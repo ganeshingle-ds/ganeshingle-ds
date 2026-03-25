@@ -28,6 +28,7 @@ I enjoy solving real-world business problems using data analysis tools and techn
 👉 https://github.com/ganeshingle-ds/hr-payroll-analysis/tree/main
 
 
+
 🔹 Insurance Policy Holder Analysis
 
 - Analyzed customer data to identify trends and insights
@@ -35,8 +36,9 @@ I enjoy solving real-world business problems using data analysis tools and techn
 - Built interactive dashboard using Power BI
   
 - Used SQL for data extraction and transformation
-- 
+ 
 👉 https://github.com/ganeshingle-ds/Insurance-Policy-Holder-Analysis 
+
 
 
 
