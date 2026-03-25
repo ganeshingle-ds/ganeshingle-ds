@@ -1,65 +1,52 @@
-# 👋 Hi, I'm Ganesh Ingle
+Hi, I'm Ganesh Ingle 👋
 
-🎯 Aspiring Data Analyst Fresher with skills in SQL, Python, Excel, and Power BI. strong analytical mindset with the abilty to transform data into 
-meaningful insights. Eager to contribute to data driven decision-making and grow in a professional environment.
-    
+🎯 Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-
-
-## 💡 About Me
-I am a passionate Data Analyst fresher with hands-on experience in SQL, Excel, Power BI, and Python. 
-
-I enjoy analyzing data, building dashboards, and extracting meaningful insights to support business decisions. 
-
-I have completed my graduation in BSC.cs  
-
-CGPA : 8.50
+I am passionate about transforming raw data into meaningful insights and interactive dashboards.
+I enjoy solving real-world business problems using data analysis tools and techniques.
 
 ---
 
-## 🛠 Skills & Tools
+# 🛠️ Skills
 
-- Languages:  SQL, Python
+- SQL
+- Power BI
+- Excel
+- Python (Pandas, Matplotlib,Seaborn)
+
+
+
+# 📊 Projects
+
+
+🔹 SQL Data Analysis Project
+
+- Wrote complex queries using JOINs, GROUP BY, and Subqueries
   
-- Data Visualization: Power BI, Excel
-  
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-    
-- Database: MySQL
-  
-- Other Skills: Data Cleaning, Data Transformation, Dashboard Creation  
+- Extracted meaningful insights from structured data
 
-
-
-## 📊 Projects
-
-### 🔹 Insurance Policy Holder Analysis (Power BI)
-- Analyzed customer data to understand policy trends and customer behavior
-   
-- Created interactive dashboard using Power BI
- 
-- Generated insights for better decision-making
-   
-👉 https://github.com/ganeshingle-ds/Insurance-Policy-Holder-Analysis  
-
-
-
-### 🔹 Sales Dashboard Analysis (Excel)
-- Built Excel dashboard to track sales performance and KPIs
-  
-- Performed data cleaning and visualization
-   
-👉 https://github.com/ganeshingle-ds/Seller-Dashboard/tree/main
-
-
-
-### 🔹 SQL Project (HR / Payroll Management System)
-- Used SQL for data querying, joins, and data analysis
-    
-- Worked on database structure and data management
-  
 👉 https://github.com/ganeshingle-ds/hr-payroll-analysis/tree/main
 
+
+🔹 Insurance Policy Holder Analysis
+
+- Analyzed customer data to identify trends and insights
+  
+- Built interactive dashboard using Power BI
+  
+- Used SQL for data extraction and transformation
+- 
+👉 https://github.com/ganeshingle-ds/Insurance-Policy-Holder-Analysis 
+
+
+
+🔹 Sales Data Analysis (Excel)
+
+- Cleaned and analyzed sales dataset
+  
+- Created dashboards using Pivot Tables and Charts
+  
+👉 https://github.com/ganeshingle-ds/Seller-Dashboard/tree/main
 
 
 ## 📈 What I Do
@@ -82,6 +69,6 @@ CGPA : 8.50
  
 - 💻 GitHub: https://github.com/ganeshingle-ds  
 
----
+
 
 ⭐ I am actively looking for Data Analyst opportunities and continuously improving my skills.
