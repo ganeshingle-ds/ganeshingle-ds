@@ -19,7 +19,7 @@ I enjoy solving real-world business problems using data analysis tools and techn
 # 📊 Projects
 
 
-🔹 SQL Data Analysis Project
+🔹 HR & Payroll Management System(MYSQL)
 
 - Wrote complex queries using JOINs, GROUP BY, and Subqueries
   
@@ -29,7 +29,8 @@ I enjoy solving real-world business problems using data analysis tools and techn
 
 
 
-🔹 Insurance Policy Holder Analysis
+
+🔹 Insurance Policy Holder Analysis(Power BI)
 
 - Analyzed customer data to identify trends and insights
   
@@ -38,6 +39,7 @@ I enjoy solving real-world business problems using data analysis tools and techn
 - Used SQL for data extraction and transformation
  
 👉 https://github.com/ganeshingle-ds/Insurance-Policy-Holder-Analysis 
+
 
 
 
