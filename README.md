@@ -22,9 +22,9 @@ I enjoy solving real-world business problems using data analysis tools and techn
 
 📌 Project Overview
 
-This project focuses on analyzing student performance data to uncover key factors that influence academic outcomes. 
+- This project focuses on analyzing student performance data to uncover key factors that influence academic outcomes. 
 
-Using data analysis techniques, the project identifies trends, patterns, and insights that can help improve student success.
+- Using data analysis techniques, the project identifies trends, patterns, and insights that can help improve student success.
 
 👉https://github.com/ganeshingle-ds/Student_Performance_Analysis
 
